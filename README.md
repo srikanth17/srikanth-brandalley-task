@@ -18,7 +18,7 @@ If you have problems in installing *yarn* on your machine, you can also run the 
 
 ## Build & Run the App
 
-The XML file is converted to JSON format & it is stored in the root directory. If you wish to re-generate the file again, run *node xml2json.js*. A new file name *data.json* will be created.
+The XML file is converted to JSON format & it is stored in the root directory. If you wish to re-generate the file again, run *node xml2json.js*. A file *data.json* will be created.
 
 Inside the cloned directory, run the following commands.
 
